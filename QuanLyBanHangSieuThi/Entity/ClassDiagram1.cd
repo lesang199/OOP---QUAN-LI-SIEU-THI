@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="QuanLyBanHangSieuThi.Helper.Beverage">
+    <Position X="4.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Helper\Beverage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QuanLyBanHangSieuThi.Entity.Customer">
+    <Position X="9.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAACAAAAgAAQAAAAAAAACAAAAIAAAAAA=</HashCode>
+      <FileName>Helper\Customer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QuanLyBanHangSieuThi.Helper.Employee">
+    <Position X="17" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAACAAAAgAAQAAAAAAAACAAAAIAAAAAA=</HashCode>
+      <FileName>Helper\Employee.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QuanLyBanHangSieuThi.Entity.Food">
+    <Position X="2.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAEAAAAAAAAAAAQAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Helper\Food.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QuanLyBanHangSieuThi.Entity.HouseHoldItem">
+    <Position X="7" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAABAAA=</HashCode>
+      <FileName>Helper\HouseHoldItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QuanLyBanHangSieuThi.Entity.Invoice">
+    <Position X="11.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAQAAAABAAAAAAAgAAAAQAAAAAAAAgAAACAACAA=</HashCode>
+      <FileName>Helper\Invoice.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QuanLyBanHangSieuThi.Entity.InvoiceDetail">
+    <Position X="13" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAAAAAAAAAAAgAAAQAAAAAAAAAAIIAA=</HashCode>
+      <FileName>Helper\InvoiceDetail.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QuanLyBanHangSieuThi.Entity.Manager">
+    <Position X="15.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Helper\Manager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QuanLyBanHangSieuThi.Entity.Order">
+    <Position X="9.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAQAAAABAAAAAAAgAAAAQAAAAAAAAgAAACAACAA=</HashCode>
+      <FileName>Helper\Order.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QuanLyBanHangSieuThi.Entity.OrderDetail">
+    <Position X="11.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAgAAQAgAAAQAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Helper\OrderDetail.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QuanLyBanHangSieuThi.Entity.Product">
+    <Position X="4.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAEAAAAAAgAAQAgAAAAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>Helper\Product.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QuanLyBanHangSieuThi.Helper.Seller">
+    <Position X="18" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Helper\Seller.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QuanLyBanHangSieuThi.Helper.Store">
+    <Position X="13" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAAAAAAAAAAAQAAAAABAACAAAAAAAAAAQ=</HashCode>
+      <FileName>Helper\Store.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

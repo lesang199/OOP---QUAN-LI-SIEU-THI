@@ -1,0 +1,16 @@
+[
+  {
+    "Code": "BH001",
+    "Name": "Thành",
+    "Gender": "Nam",
+    "Phone": "073493923434",
+    "Address": "TP. Hồ Chí Minh"
+  },
+  {
+    "Code": "BH002",
+    "Name": "Nam",
+    "Gender": "Nam",
+    "Phone": "0909090909",
+    "Address": "TP. Hồ Chí Minh"
+  }
+]

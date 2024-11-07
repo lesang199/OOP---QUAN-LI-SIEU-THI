@@ -1,0 +1,106 @@
+[
+  {
+    "Code": "DH002",
+    "CreatedDate": "2024-10-31T21:05:19.5684041+07:00",
+    "Customer": {
+      "Code": "KH001",
+      "Name": "Giang",
+      "Gender": "Nam",
+      "Phone": "0973942343",
+      "Address": "TP HCM"
+    },
+    "CustomerName": "Giang",
+    "Seller": {
+      "Code": "BH001",
+      "Name": "Quỳnh",
+      "Gender": "Nữ",
+      "Phone": "073493923434",
+      "Address": "Đà Nẵng"
+    },
+    "SellerName": "Quỳnh",
+    "Details": [
+      {
+        "ProductCode": "DO001",
+        "ProductName": "Bia Tiger",
+        "Price": 25000,
+        "Qty": 4,
+        "Total": 100000
+      },
+      {
+        "ProductCode": "TP002",
+        "ProductName": "Cà chua",
+        "Price": 5000,
+        "Qty": 5,
+        "Total": 25000
+      }
+    ],
+    "SumTotal": 125000
+  },
+  {
+    "Code": "DH001",
+    "CreatedDate": "2024-11-03T14:56:32.5036803+07:00",
+    "Customer": {
+      "Code": "KH001",
+      "Name": "Giang",
+      "Gender": "Nam",
+      "Phone": "0973942343",
+      "Address": "TP HCM"
+    },
+    "CustomerName": "Giang",
+    "Seller": {
+      "Code": "BH001",
+      "Name": "Quỳnh",
+      "Gender": "Nữ",
+      "Phone": "073493923434",
+      "Address": "Đà Nẵng"
+    },
+    "SellerName": "Quỳnh",
+    "Details": [
+      {
+        "ProductCode": "DO001",
+        "ProductName": "Bia Tiger",
+        "Price": 25000,
+        "Qty": 3,
+        "Total": 75000
+      },
+      {
+        "ProductCode": "DO002",
+        "ProductName": "Nước ngọt Pepsi",
+        "Price": 15000,
+        "Qty": 5,
+        "Total": 75000
+      }
+    ],
+    "SumTotal": 150000
+  },
+  {
+    "Code": "DH003",
+    "CreatedDate": "2024-11-03T14:57:58.4851155+07:00",
+    "Customer": {
+      "Code": "KH001",
+      "Name": "Giang",
+      "Gender": "Nam",
+      "Phone": "0973942343",
+      "Address": "TP HCM"
+    },
+    "CustomerName": "Giang",
+    "Seller": {
+      "Code": "BH001",
+      "Name": "Quỳnh",
+      "Gender": "Nữ",
+      "Phone": "073493923434",
+      "Address": "Đà Nẵng"
+    },
+    "SellerName": "Quỳnh",
+    "Details": [
+      {
+        "ProductCode": "DO001",
+        "ProductName": "Bia Tiger",
+        "Price": 25000,
+        "Qty": 7,
+        "Total": 175000
+      }
+    ],
+    "SumTotal": 175000
+  }
+]

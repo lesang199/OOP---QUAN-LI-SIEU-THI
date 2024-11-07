@@ -1,0 +1,51 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using QuanLyBanHangSieuThi.Helper;
+
+namespace QuanLyBanHangSieuThi.Entity
+{
+    [Serializable]
+    public class Invoice
+    {
+        public string Code { get; set; }
+        public DateTime CreatedDate { get; set; }
+        public virtual Customer Customer { get; set; }
+        public virtual string CustomerName
+        {
+            get
+            {
+                if (Customer == null)
+                    return "";
+
+                return Customer.Name;
+            }
+        }
+        public virtual Seller Seller { get; set; }
+        public virtual string SellerName
+        {
+            get
+            {
+                if (Seller == null)
+                    return "";
+
+                return Seller.Name;
+            }
+        }
+        public virtual List<InvoiceDetail> Details { get; set; } = new List<InvoiceDetail>();
+        
+        public virtual decimal SumTotal {
+            get {
+                decimal sumTotal = 0;
+
+                for (int i = 0; i < Details.Count; i++)
+                { 
+                    sumTotal += Details[i].Total;
+                }
+                return sumTotal;
+            }
+        }
+    }
+}

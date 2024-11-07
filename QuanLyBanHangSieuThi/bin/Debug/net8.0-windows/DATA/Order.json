@@ -1,0 +1,185 @@
+[
+  {
+    "Code": "DH001",
+    "CreatedDate": "2024-11-03T14:56:32.5036803+07:00",
+    "Customer": {
+      "Code": "KH001",
+      "Name": "Giang",
+      "Gender": "Nam",
+      "Phone": "0973942343",
+      "Address": "TP HCM"
+    },
+    "CustomerName": "Giang",
+    "Seller": {
+      "Code": "BH001",
+      "Name": "Quỳnh",
+      "Gender": "Nữ",
+      "Phone": "073493923434",
+      "Address": "Đà Nẵng"
+    },
+    "SellerName": "Quỳnh",
+    "Details": [
+      {
+        "Product": {
+          "Code": "DO001",
+          "Name": "Bia Tiger",
+          "Price": 25000,
+          "Qty": 85,
+          "Info": "Tên sản phẩm: Bia Tiger, Giá: 25000"
+        },
+        "Code": "DO001",
+        "Name": "Bia Tiger",
+        "Qty": 3,
+        "Total": 75000
+      },
+      {
+        "Product": {
+          "Code": "DO002",
+          "Name": "Nước ngọt Pepsi",
+          "Price": 15000,
+          "Qty": 88,
+          "Info": "Tên sản phẩm: Nước ngọt Pepsi, Giá: 15000"
+        },
+        "Code": "DO002",
+        "Name": "Nước ngọt Pepsi",
+        "Qty": 5,
+        "Total": 75000
+      }
+    ],
+    "SumTotal": 150000
+  },
+  {
+    "Code": "2222",
+    "CreatedDate": "2024-10-31T21:04:13.4028355+07:00",
+    "Customer": {
+      "Code": "KH001",
+      "Name": "Giang",
+      "Gender": "Nam",
+      "Phone": "0973942343",
+      "Address": "TP HCM"
+    },
+    "CustomerName": "Giang",
+    "Seller": {
+      "Code": "BH001",
+      "Name": "Quỳnh",
+      "Gender": "Nữ",
+      "Phone": "073493923434",
+      "Address": "Đà Nẵng"
+    },
+    "SellerName": "Quỳnh",
+    "Details": [
+      {
+        "Product": {
+          "Code": "DO002",
+          "Name": "Nước ngọt Pepsi",
+          "Price": 15000,
+          "Qty": 93,
+          "Info": "Tên sản phẩm: Nước ngọt Pepsi, Giá: 15000"
+        },
+        "Code": "DO002",
+        "Name": "Nước ngọt Pepsi",
+        "Qty": 7,
+        "Total": 105000
+      },
+      {
+        "Product": {
+          "Code": "DO001",
+          "Name": "Bia Tiger",
+          "Price": 25000,
+          "Qty": 92,
+          "Info": "Tên sản phẩm: Bia Tiger, Giá: 25000"
+        },
+        "Code": "DO001",
+        "Name": "Bia Tiger",
+        "Qty": 7,
+        "Total": 175000
+      }
+    ],
+    "SumTotal": 280000
+  },
+  {
+    "Code": "DH002",
+    "CreatedDate": "2024-10-31T21:05:19.5684041+07:00",
+    "Customer": {
+      "Code": "KH001",
+      "Name": "Giang",
+      "Gender": "Nam",
+      "Phone": "0973942343",
+      "Address": "TP HCM"
+    },
+    "CustomerName": "Giang",
+    "Seller": {
+      "Code": "BH001",
+      "Name": "Quỳnh",
+      "Gender": "Nữ",
+      "Phone": "073493923434",
+      "Address": "Đà Nẵng"
+    },
+    "SellerName": "Quỳnh",
+    "Details": [
+      {
+        "Product": {
+          "Code": "DO001",
+          "Name": "Bia Tiger",
+          "Price": 25000,
+          "Qty": 88,
+          "Info": "Tên sản phẩm: Bia Tiger, Giá: 25000"
+        },
+        "Code": "DO001",
+        "Name": "Bia Tiger",
+        "Qty": 4,
+        "Total": 100000
+      },
+      {
+        "Product": {
+          "Code": "TP002",
+          "Name": "Cà chua",
+          "Price": 5000,
+          "Qty": 95,
+          "Info": "Tên sản phẩm: Cà chua, Giá: 5000"
+        },
+        "Code": "TP002",
+        "Name": "Cà chua",
+        "Qty": 5,
+        "Total": 25000
+      }
+    ],
+    "SumTotal": 125000
+  },
+  {
+    "Code": "DH003",
+    "CreatedDate": "2024-11-03T14:57:58.4851155+07:00",
+    "Customer": {
+      "Code": "KH001",
+      "Name": "Giang",
+      "Gender": "Nam",
+      "Phone": "0973942343",
+      "Address": "TP HCM"
+    },
+    "CustomerName": "Giang",
+    "Seller": {
+      "Code": "BH001",
+      "Name": "Quỳnh",
+      "Gender": "Nữ",
+      "Phone": "073493923434",
+      "Address": "Đà Nẵng"
+    },
+    "SellerName": "Quỳnh",
+    "Details": [
+      {
+        "Product": {
+          "Code": "DO001",
+          "Name": "Bia Tiger",
+          "Price": 25000,
+          "Qty": 78,
+          "Info": "Đồ uống. Có chứa cồn: True"
+        },
+        "Code": "DO001",
+        "Name": "Bia Tiger",
+        "Qty": 7,
+        "Total": 175000
+      }
+    ],
+    "SumTotal": 175000
+  }
+]

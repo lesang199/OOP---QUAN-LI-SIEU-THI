@@ -1,0 +1,26 @@
+[
+  {
+    "ExpirationDate": "2024-10-18T21:05:06.7013659+07:00",
+    "Code": "TP001",
+    "Name": "Rau cải xanh",
+    "Price": 2000,
+    "Qty": 100,
+    "Info": "Thực phẩm. Ngày hết hạn: 10/18/2024"
+  },
+  {
+    "ExpirationDate": "2024-10-18T21:05:06.7013659+07:00",
+    "Code": "TP002",
+    "Name": "Cà chua",
+    "Price": 5000,
+    "Qty": 95,
+    "Info": "Thực phẩm. Ngày hết hạn: 10/18/2024"
+  },
+  {
+    "ExpirationDate": "2024-10-18T21:05:06.7013659+07:00",
+    "Code": "TP003",
+    "Name": "Bông Bí",
+    "Price": 1500,
+    "Qty": 98,
+    "Info": "Thực phẩm. Ngày hết hạn: 10/18/2024"
+  }
+]

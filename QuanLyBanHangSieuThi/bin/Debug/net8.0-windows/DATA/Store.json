@@ -1,0 +1,13 @@
+{
+  "Name": "SIÊU THỊ",
+  "Address": "TP. Hồ Chí Minh",
+  "Manager": {
+    "Code": "QL002",
+    "Name": "Tuấn",
+    "Gender": "Nam",
+    "Phone": "0793743234",
+    "Address": "Hà Nội"
+  },
+  "Products": [],
+  "Customers": []
+}
